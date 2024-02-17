@@ -11,7 +11,6 @@
    + 解压缩镜像文件后, 使用 [ImagePatcher2](https://github.com/lalakii/fedora_rawhide_minimal_orangepizero3/blob/master/ImagePatcher2.exe) 修补镜像的uboot
    + 如果是4GB的设备，可能还需要替换某些文件，具体参考u-boot下载页面的教程
 2. 使用 [Fedora Media Writer](https://fedoraproject.org/workstation/download/) 将镜像文件 *fedora-rawhide-opi.raw* 写入到SD卡，[参考视频](https://www.bilibili.com/video/BV1Zb4y137j3/) 
-3. 首次执行 ```dnf makecache``` 或 ```dnf update``` 会非常慢，这是正常现象
 
 ## 文档
 

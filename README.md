@@ -11,7 +11,6 @@ Fedora Linux for Spiced Orange Pi Zero3, based on the Fedora Spins image.
    + patch uboot using [ImagePatcher2](https://github.com/lalakii/fedora_rawhide_minimal_orangepizero3/blob/master/ImagePatcher2.exe). (If the memory is 1.5G you can ignore this step), see [YouTube](https://www.youtube.com/watch?v=YLmtxsbvnFM&ab_channel=lalakii)
    + If the memory is 4GB, you may also need to replace certain files, see the u-boot download page for details.
 2. Burn *fedora-rawhide-opi.raw* to sdcard using [Fedora Media Writer](https://fedoraproject.org/workstation/download/).
-3. The first time you run ``dnf makecache`` or ``dnf update`` it will be very slow, this is normal.
 
 ## Docs
 

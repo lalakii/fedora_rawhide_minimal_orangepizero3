@@ -18,7 +18,7 @@ Fedora Linux for Spiced Orange Pi Zero3, based on the Fedora Spins image.
 
 ## Download
 
-+ fedora_41_minimal_orangepi_zero3.7z: [LanZouYun](https://a01.lanzout.com/b00xram0d) or [LanZouYun](https://a01.lanzoui.com/b00xram0d), Password: 8aih
++ fedora_41_minimal_orangepi_zero3.7z: [LanZouYun01](https://a01.lanzout.com/b00xram0d) or [LanZouYun02](https://a01.lanzoui.com/b00xram0d), Password: 8aih
     + ssid: opi-zero3
     + ssh: root@192.168.10.254, the root password is empty
 + orangepizero3_uboot: [Github](https://github.com/leeboby/opizero3-uboot-dtb/)

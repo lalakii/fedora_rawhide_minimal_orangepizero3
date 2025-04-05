@@ -18,7 +18,7 @@
 
 ## 下载
 
-+ fedora_41_minimal_orangepi_zero3.7z: [谷歌云盘](https://drive.google.com/file/d/11N41XX9tw7I_xlxWwQsgdLWTAe-nh5_z/view?usp=sharing) | [蓝奏云](https://a01.lanzout.com/b00xram0d) 密码: 8aih
++ fedora_41_minimal_orangepi_zero3.7z: [蓝奏云01](https://a01.lanzoui.com/b00xram0d) 或 [蓝奏云02](https://a01.lanzout.com/b00xram0d) 密码: 8aih
     + ssid: opi-zero3
     + ssh: root@192.168.10.254, 无密码
 + orangepizero3_uboot: [Github](https://github.com/leeboby/opizero3-uboot-dtb/)

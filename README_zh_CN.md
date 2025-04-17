@@ -18,7 +18,7 @@
 
 ## 下载
 
-+ fedora_41_minimal_orangepi_zero3.7z:
++ fedora_rawhide_minimal_orangepi_zero3.7z:
   
   + 从这些云盘中获取镜像以及部分工具
       + [123云盘](https://www.123912.com/s/jE3Sjv-Ctmxd)
